@@ -12,7 +12,7 @@ module.exports = {
         title: '数据类型',
         collapsable: false,
         children: [
-          'type/general'
+          'types/general'
         ]
       }
     ]
