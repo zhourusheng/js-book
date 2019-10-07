@@ -1,3 +1,5 @@
-let res = 1 === 1.0
-
-console.log(res)
+if ([].length) {
+  console.log('true')
+} else {
+  console.log('false')
+}
