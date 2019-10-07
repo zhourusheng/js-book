@@ -1,5 +1,1 @@
-if ([].length) {
-  console.log('true')
-} else {
-  console.log('false')
-}
+console.log(0.3 / 0.1 )
